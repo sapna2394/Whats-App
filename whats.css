@@ -1,0 +1,254 @@
+.navbar{
+  background-color:#128c7e;
+}
+.navbar ul{
+  height: 90px;
+}
+.navbar li{
+  float: left;
+  list-style: none;
+}
+.navbar li a{
+  padding: 3px 3px;
+  text-decoration: none;
+  color: white;
+  margin-left: 100px;
+  line-height: 90px;
+  border: 10px;
+}
+.pic{
+  margin-top: 25px;
+}
+.pic1{
+  height: 585px;
+  width: 315px;
+  margin-left: 55%;
+  position: absolute;
+  top: 20%;
+}
+.not_seen{
+  display: none;
+}
+
+h1{
+  margin-left: 140px;
+  padding: 120px;
+  font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 33px;
+  line-height: 43px;
+}
+
+p{
+  margin-left: 255px;
+  position: relative;
+  bottom: 110px;
+  font-size: 18px;
+  line-height: 26px;  
+  margin-bottom: 2%;
+} 
+.s{
+  color: #5E5E5E;
+    font-size: 16px;
+    position: relative;
+    bottom: 130px;
+}
+
+.icon_name{
+  color: #128c7e;
+  margin-left: 90px;
+}
+.one{
+  height: 900px;
+  width: 100%;
+  display: flex;
+  
+  
+}  
+
+.box1{
+  height: 800px;
+  width: 800px;
+  margin: 10%;
+  background-color: #D8E8EA;
+  position: relative;
+  bottom: 16%;
+  
+}  
+ .box2{
+  height: 800px;
+  width: 800px;
+  background-color: #e7F0E4;
+  position: relative;
+  right: 100px;
+  
+
+}  
+.item{
+  text-align: center;
+  position: relative;
+  top: 6%;
+
+  
+} 
+ .image{ 
+  height: 360px; 
+  width: 55%; 
+  margin-left: 23%;
+  position: relative;
+  bottom: 55px;
+  
+}
+
+
+.item1{ 
+  margin: 6%;
+   margin-top: 35%;
+   position: relative;
+   right: 2%;
+   text-align: center; 
+} 
+.item2{  
+  margin: 6%;
+   position: relative; 
+   right: 2%; 
+   text-align: center;
+
+}  
+ .circle{
+  height: 300px;
+  width: 50%;
+  border-radius: 50%;
+  background-color: #77d7c8;
+  position: relative;
+  left: 150px;
+  top: 64px;
+} 
+ .hello{ 
+  height: 50px;
+  width: 57%;
+  background-color:white;
+  margin-left: 65px;
+  position: relative;
+  top: 126px;
+  border-radius: 25px;
+}
+
+.hi{
+
+  bottom: 5px;
+  right: 200px;
+} 
+
+
+.box_item1{
+  
+  margin-left: -192px;
+  text-align: center;
+  margin-top: 250px;
+  position: relative;
+  left: 60%;
+}
+.box_item2{ 
+  
+  margin-left: -192px;
+  position: relative;
+  top: -120px; 
+  left: 100%
+ }   
+.pea{
+  text-align: center;
+  margin-left: -80%;
+  margin-right: -65%;
+}
+.explore{
+  height: 200px;
+  background-color: transparent;
+}
+.ex-item{
+  height: 50px;
+  width: 20%;
+  border: solid #1cb39b;
+  border-radius: 40px;
+  margin-left:600px;
+  position: relative;
+  top: 10px;
+}
+ .content{
+  color: #1cb39b;
+  text-align: center;
+  padding-top: 3px;
+  margin-left: 12px;
+  position: relative;
+  bottom: 10px;
+}
+
+.div{
+  height: 400px;
+  width: 100%;
+  background-color: #273443;
+  display: flex;
+}
+.footer{
+  text-align: center;
+}
+h3{
+  color: white;
+  margin-left: 55% ;
+}
+.son{
+  color: white;
+  margin-top:35% ;
+  margin-right: 18%;
+  
+}
+.footer1{
+  text-align: center;
+}
+.son1{
+  color: white;
+  margin-top:35% ;
+  margin-right: 18%;
+}
+.footer2{
+  text-align: center;
+}
+.son2{
+  color: white;
+  margin-top: 45%;
+  margin-right: 65%;
+}
+.footer3{
+  text-align: center;
+}
+.son3{
+  color: white;
+  margin-top: 40%;
+  margin-right: 60%;
+}
+.foot{
+  height: 60px;
+  background-color: #1c1e21;
+  display: flex;
+  color: white; 
+} 
+p.foot1{
+text-align: center;
+  margin-left: 160px;
+  bottom: 10px;
+}
+p.foot2{
+  margin-left: 800px;
+  bottom: 10px;
+}     
+
+
+
+
+
+
+
+
+
+
+
